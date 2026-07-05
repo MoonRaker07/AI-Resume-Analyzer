@@ -167,17 +167,13 @@ Recommended Skills:
 
 ## Home Page
 
-```
 ![HOME](images/home.png)
-```
 
 ---
 
 ## Resume Analysis
 
-```
 ![RESULT](images/result.png)
-```
 
 ---
 
