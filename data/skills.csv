@@ -1,0 +1,162 @@
+Category,Skill
+Programming,Python
+Programming,Java
+Programming,C
+Programming,C++
+Programming,C#
+Programming,Go
+Programming,Rust
+Programming,Scala
+Programming,Kotlin
+Programming,Swift
+Programming,R
+Programming,MATLAB
+Programming,Julia
+Programming,PHP
+Programming,Ruby
+Programming,Perl
+Programming,Dart
+Programming,TypeScript
+Programming,JavaScript
+Programming,Shell
+Programming,Bash
+Programming,PowerShell
+Programming,Objective-C
+Programming,VB.NET
+Frontend,HTML
+Frontend,CSS
+Frontend,JavaScript
+Frontend,React
+Frontend,Angular
+Frontend,Vue
+Frontend,Next.js
+Frontend,Bootstrap
+Frontend,Tailwind CSS
+Frontend,Redux
+Frontend,jQuery
+Frontend,SASS
+Backend,Node.js
+Backend,Express
+Backend,Django
+Backend,Flask
+Backend,FastAPI
+Backend,Spring
+Backend,Spring Boot
+Backend,Laravel
+Backend,ASP.NET
+Backend,REST API
+Backend,GraphQL
+Backend,gRPC
+Backend,JWT
+Backend,OAuth
+Backend,Microservices
+AI/ML,Machine Learning
+AI/ML,Deep Learning
+AI/ML,Artificial Intelligence
+AI/ML,TensorFlow
+AI/ML,PyTorch
+AI/ML,Scikit-learn
+AI/ML,Keras
+AI/ML,OpenCV
+AI/ML,NLTK
+AI/ML,spaCy
+AI/ML,Transformers
+AI/ML,Hugging Face
+AI/ML,LangChain
+AI/ML,LlamaIndex
+AI/ML,LLM
+AI/ML,RAG
+AI/ML,Computer Vision
+AI/ML,NLP
+AI/ML,GAN
+AI/ML,CNN
+AI/ML,RNN
+AI/ML,LSTM
+AI/ML,BERT
+AI/ML,GPT
+AI/ML,XGBoost
+AI/ML,LightGBM
+AI/ML,CatBoost
+AI/ML,Reinforcement Learning
+AI/ML,Feature Engineering
+AI/ML,Model Deployment
+AI/ML,MLOps
+Data Science,Pandas
+Data Science,NumPy
+Data Science,SciPy
+Data Science,Matplotlib
+Data Science,Seaborn
+Data Science,Plotly
+Data Science,Power BI
+Data Science,Tableau
+Data Science,Excel
+Data Science,Statistics
+Data Science,Data Analysis
+Data Science,Data Mining
+Data Science,Data Visualization
+Data Science,EDA
+Data Science,A/B Testing
+Data Science,Regression
+Data Science,Classification
+Data Science,Clustering
+Data Science,Forecasting
+Data Science,Time Series
+Database,MySQL
+Database,PostgreSQL
+Database,MongoDB
+Database,Redis
+Database,SQLite
+Database,Oracle
+Database,Cassandra
+Database,Neo4j
+Database,Firebase
+Database,DynamoDB
+Database,Redshift
+Database,Snowflake
+Cloud,AWS
+Cloud,Azure
+Cloud,GCP
+Cloud,Docker
+Cloud,Kubernetes
+Cloud,Terraform
+Cloud,Jenkins
+Cloud,GitHub Actions
+Cloud,CloudFormation
+Cloud,Linux
+Cloud,Nginx
+Cloud,Apache
+Big Data,Hadoop
+Big Data,Spark
+Big Data,Kafka
+Big Data,Hive
+Big Data,Airflow
+Big Data,Apache Beam
+Big Data,Flink
+Big Data,Databricks
+Big Data,ETL
+DevOps,Git
+DevOps,GitHub
+DevOps,GitLab
+DevOps,CI/CD
+DevOps,Ansible
+DevOps,Helm
+DevOps,Prometheus
+DevOps,Grafana
+Mobile,Android
+Mobile,iOS
+Mobile,Flutter
+Mobile,React Native
+Mobile,Xamarin
+Cybersecurity,Wireshark
+Cybersecurity,Burp Suite
+Cybersecurity,Metasploit
+Cybersecurity,Nmap
+Cybersecurity,OWASP
+Cybersecurity,Kali Linux
+Cybersecurity,Penetration Testing
+Tools,VS Code
+Tools,Jupyter Notebook
+Tools,PyCharm
+Tools,Postman
+Tools,Figma
+Tools,Canva

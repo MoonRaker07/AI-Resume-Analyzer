@@ -1,0 +1,45 @@
+Role,Skill
+Data Science,Python
+Data Science,Pandas
+Data Science,NumPy
+Data Science,Scikit-learn
+Data Science,TensorFlow
+Data Science,PyTorch
+Data Science,SQL
+Data Science,Power BI
+Data Science,Tableau
+Data Science,Machine Learning
+Data Science,Deep Learning
+Data Science,Docker
+Data Science,AWS
+
+Python Developer,Python
+Python Developer,Django
+Python Developer,Flask
+Python Developer,FastAPI
+Python Developer,SQL
+Python Developer,Git
+Python Developer,Docker
+Python Developer,REST API
+
+Java Developer,Java
+Java Developer,Spring
+Java Developer,Hibernate
+Java Developer,Maven
+Java Developer,Git
+Java Developer,SQL
+
+Web Designing,HTML
+Web Designing,CSS
+Web Designing,JavaScript
+Web Designing,React
+Web Designing,Bootstrap
+Web Designing,Figma
+
+DevOps Engineer,Linux
+DevOps Engineer,Docker
+DevOps Engineer,Kubernetes
+DevOps Engineer,AWS
+DevOps Engineer,Git
+DevOps Engineer,Jenkins
+DevOps Engineer,CI/CD
